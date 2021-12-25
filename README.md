@@ -11,7 +11,7 @@ Email Sending Python Script
 - Follow the instructions
 ```
 
-## Iimprovement Notes for future
+## Improvement Notes for future
 
 ```
 - Attach attachments
