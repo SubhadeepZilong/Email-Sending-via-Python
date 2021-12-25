@@ -10,6 +10,7 @@ import smtplib
 smail = input("Enter Sender's Email: ")
 pwd = input("Enter Password: ")
 rmail = input("Enter Reciever's Email: ")
+msg = input("Enter your message: ")
 
 
 # ---------- Execution -----------
