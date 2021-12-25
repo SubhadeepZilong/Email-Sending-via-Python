@@ -11,6 +11,12 @@ Email Sending Python Script
 - Follow the instructions
 ```
 
+## Iimprovement Notes for future
+
+```
+- Attach attachments
+```
+
 ##
 
 <p align="center">
